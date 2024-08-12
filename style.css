@@ -1,0 +1,71 @@
+body {
+  color: black;
+  background:rgb(151,151,250);
+    margin: 2px;
+}
+
+
+
+header {
+  font-size: 80px;
+  color: black(59,59,214);
+  border-bottom: solid 2px black;
+  margin: 20px;
+  padding: 20px;
+  font-family: "Judson", serif;
+
+}
+
+.entrada {
+ font-family:Garamond, "serif";
+  background:rgb(79,93,184);
+  margin: 20px;
+  padding: 20px;
+  font-size: 30px;
+  display: flex;  
+}
+
+.descricao {
+  font-size: 20px;
+}
+
+.primeiro {
+  margin-rigth: 20px;
+}
+
+img{
+  height: 200px;
+}
+
+.clipes{
+  display: flex;
+  overflow-x: auto;
+  gap:10px;
+}
+
+p{
+  text-align: justify;
+}
+
+.outros{
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 30px;
+  font-family:Garamond", serif;
+}
+
+.outros img{
+  opacity: 0.5;
+}
+
+.outros img:hover{
+opacity:1.0;
+  border: solid 3px rg14)
+}
+
+.logo{
+  position: relative;
+  top: -40px;
+  left: 500px;
+  width: 200px;
+}
